@@ -20,7 +20,6 @@ This project aims to predict the salary of an individual based on their years of
 
 The dataset used in this project is named `Salary_dataset.csv`. It contains the following columns:
 
-- **Unnamed: 0**: An index column.
 - **YearsExperience**: The number of years of experience an individual has.
 - **Salary**: The corresponding salary of the individual.
 
